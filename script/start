@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+vagrant up "$1"

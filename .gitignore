@@ -1,0 +1,6 @@
+.vagrant/*
+cookbooks/*
+opts.yaml
+.env
+Gemfile.lock
+Berksfile.lock

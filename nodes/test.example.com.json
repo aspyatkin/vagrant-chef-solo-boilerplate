@@ -1,0 +1,10 @@
+{
+  "run_list": [
+  	"recipe[poise-python::default]",
+  	"recipe[git::default]"
+  ],
+  "environment": "development",
+  "automatic": {
+    "ipaddress": "test.example.com"
+  }
+}
